@@ -1,3 +1,12 @@
+<<<<<<< HEAD
+=======
+"""
+Hand Tracing Module
+By: Murtaza Hassan
+Youtube: http://www.youtube.com/c/MurtazasWorkshopRoboticsandAI
+Website: https://www.murtazahassan.com/
+"""
+>>>>>>> 32a68675b5ef9d086a58a74bf0454d9ccf2365b6
 
 import cv2
 import mediapipe as mp
